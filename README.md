@@ -34,9 +34,6 @@ yaml
 3. Open `Face_Recognition_Project.ipynb`.
 4. Install required libraries:
 pip install opencv-python opencv-contrib-python numpy
-
-yaml
-
 5. Run the notebook cells step by step.
 
 ## Features
